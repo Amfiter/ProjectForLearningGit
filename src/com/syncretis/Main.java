@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Это тест проект по использованию гит");
         System.out.println("Это тест проект по использованию гит");
         System.out.println("Это тест проект по использованию гит");
+        System.out.println("Это тест проект по использованию гит");
+        System.out.println("Это тест проект по использованию гит");
 
     }
 }
